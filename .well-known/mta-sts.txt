@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mx2.emailsrvr.com
+mx: mx1.emailsrvr.com
+max_age: 604800
